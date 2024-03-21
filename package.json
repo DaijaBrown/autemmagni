@@ -1,0 +1,38 @@
+{
+  "name": "autemmagni",
+  "version": "1.0.0",
+  "keywords": [
+    "all",
+    "ea",
+    "many",
+    "at",
+    "labore",
+    "consequatur",
+    "multiple",
+    "non",
+    "voluptates",
+    "replace-all",
+    "replace",
+    "replaceAll",
+    "replacement",
+    "provident",
+    "corrupti",
+    "string",
+    "sed",
+    "sub-string",
+    "consequatur",
+    "text"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/DaijaBrown/autemmagni.git"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "core-js": "^3.4.1"
+  },
+  "author": "MaidaCrist",
+  "bugs": {
+    "url": "https://github.com/DaijaBrown/autemmagni.git/issues"
+  }
+}
